@@ -2,7 +2,7 @@
 ## Welcome to Tristan's git hub
 - 🔭 I’m currently working on ...Language Study app
 - 🌱 I’m currently learning ...ReactJS
-- ⚡ Fun fact: I am very creative and fun to be around and has a positive outlook on things
+- ⚡ Fun fact: I am very creative, talented and fun to be around and has a positive outlook on things
 
 <!--
 **Tristan-Thompson876/Tristan-Thompson876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
