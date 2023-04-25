@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Welcome to Tristan's git hub
-- 🔭 I’m currently working on ...Language Study app
+- 🔭 I’m currently working on ...Language Study app using Java
 - 🌱 I’m currently learning ...ReactJS
 - ⚡ Fun fact: I am very creative, talented and fun to be around and has a positive outlook on things
 
