@@ -1,8 +1,8 @@
 # Hi there 👋
 ## Welcome to Tristan's git hub
-- 🔭 I’m currently working on ...Language Study app using Java
-- 🌱 I’m currently learning ...ReactJS
-- ⚡ Fun fact: I am very creative, talented and fun to be around and has a positive outlook on things
+- 🔭 I’m currently working on a social app using Java
+- 🌱 I’m currently learning ...Dart and Java
+- ⚡ Fun fact: I am very creative, talented, and fun to be around, and I have a positive outlook on things
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tristan-Thompson876&show_icons=true&theme=radical)
 <!--
