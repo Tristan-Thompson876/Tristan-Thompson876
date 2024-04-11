@@ -5,7 +5,9 @@
 - ⚡ Fun fact: I am very creative, talented, and fun to be around, and I have a positive outlook on things
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tristan-Thompson876&theme=dark&show_icons=true)
+![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tristan-Thompson876&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-Thompson876)](https://github.com/anuraghazra/github-readme-stats)
 
 
 👨‍💻Programming Languages and Technologies I Know:
