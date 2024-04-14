@@ -1,8 +1,8 @@
 # Hi there 👋
 ## Welcome to Tristan's git hub
-- 🔭 I’m currently working on a social app using Java
-- 🌱 I’m currently learning ...Dart and Java
-- ⚡ Fun fact: I am very creative, talented, and fun to be around, and I have a positive outlook on things
+- 🔭 I’m currently working on a vehicle rental app using Java
+- 🌱 I’m currently learning ...flutter and flask
+- ⚡ Fun fact: I am a very creative, talented, and fun person to be around, and I have a positive outlook on things and life.
 
 
 ![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tristan-Thompson876&theme=dark&show_icons=true)
