@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on a vehicle rental app using Java
 - 🌱 I’m currently learning ...flutter and flask
 - ⚡ Fun fact: I am a very creative, talented, and fun person to be around, and I have a positive outlook on things and life.
+- 👯 I’m looking to collaborate on a flutter application project
 
 
 ![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tristan-Thompson876&theme=dark&show_icons=true)
@@ -11,7 +12,7 @@
 
 
 👨‍💻Programming Languages and Technologies I Know:
-    Python CSS3 HTML5 TypeScript C++ Java Dart React
+    Python CSS3 HTML5 TypeScript C++ Java Dart SQL Flask React
 
 Visual Studio Code Sublime Text
 <!--
