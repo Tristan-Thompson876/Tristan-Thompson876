@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on a vehicle rental app using Java
 - 🌱 I’m currently learning ...flutter and flask
 - ⚡ Fun fact: I am a very creative, talented, and fun person to be around, and I have a positive outlook on things and life.
-- 👯 I’m looking to collaborate on a flutter application project
-
+- 👯 I’m looking to collaborate on a Flutter application project
+- 🧠 I want to learn more about AI, cloud computing, and software development
 
 ![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tristan-Thompson876&theme=dark&show_icons=true)
 
